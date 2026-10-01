@@ -51,6 +51,9 @@ I build robot manipulation systems that combine learned policies with force cont
 
 ## 💼 Experience
 
+**Exam Invigilator**, Centre for Accessible Learning (CAL), Simon Fraser University · *Summer 2025 – present*
+- Supervise exams for students with academic accommodations.
+
 **Data Entry Specialist (AI Integration)**, IMM Recruitment · *Mar 2024 – present*
 - Built OpenCV and YOLO pipelines to automate document digitization.
 - Trained TensorFlow vision models (CNNs, Vision Transformers) to extract and validate structured data from unstructured documents.
@@ -68,12 +71,12 @@ I build robot manipulation systems that combine learned policies with force cont
 ## 🎓 Teaching
 
 **Simon Fraser University, Teaching Assistant**
+- **ENSC 151: Intro to Software Development** *(Fall 2026, Fall 2024)*. C++, OOP, data structures, Linux, Git.
+- **ENSC 252: Digital Logic & Design** *(Fall 2026, Fall 2024)*. VHDL, FPGA prototyping, Quartus Prime, ModelSim.
 - **ENSC 406: Engineering Ethics.** Designed 50-minute discussion tutorials on ethical frameworks and case studies (Therac-25, Ford Pinto).
 - **ENSC 351.**
 - **ENSC 280: Engineering Measurement & Data Analysis** *(Summer 2025)*. Data analysis, error measurement, and MATLAB labs with sensors and circuits.
 - **ENSC 325: Microelectronics II, Head TA** *(Spring 2025)*. MOSFET/CMOS/BJT amplifier labs and SPICE simulation.
-- **ENSC 151: Intro to Software Development** *(Fall 2024)*. C++, OOP, data structures, Linux, Git.
-- **ENSC 252: Digital Logic & Design** *(Fall 2024)*. VHDL, FPGA prototyping, Quartus Prime, ModelSim.
 - Graded 75 student design submissions against a sustainability rubric.
 
 **University of Isfahan, TA for Physics & Mathematics** *(2021–2022)*
